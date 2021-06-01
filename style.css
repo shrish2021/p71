@@ -1,0 +1,64 @@
+#goodschool {
+    background-color: lightblue;
+}
+
+h2 {
+    color: brown;
+}
+
+#cs {
+    text-align: center;
+}
+
+.row::after {
+    clear: both;
+    display: table;
+}
+
+.travel_mainDiv {
+    float: left;
+    width: 33.33% padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+    height: 300px;
+}
+
+.travel_mainDiv hr {
+    width: 100%;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+#achievmentsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+#pwm {
+    color: lightblue;
+    background-color: brown;
+}
+
+#pbl {
+    color: brown;
+    background-color: lightblue;
+}
+
+#footer {
+    height: 20px;
+    background-color: white;
+}
